@@ -1,0 +1,20 @@
+{
+  "name": "express-axios-exercise",
+  "version": "1.0.0",
+  "description": "Repository for my students to practise with asynchornous calls to an API",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ale Bausa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
