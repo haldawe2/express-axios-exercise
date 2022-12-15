@@ -46,4 +46,4 @@ Write a GET route to the path '/randomuser' that will:
 
 ## Iteration 4 👓
 
-Write a GET route to the path '/' that will provide an HTML response containing links to all the 3 previous routes.
+Modify the GET route to the path '/' to provide an HTML response containing links to all the 3 previous routes.
